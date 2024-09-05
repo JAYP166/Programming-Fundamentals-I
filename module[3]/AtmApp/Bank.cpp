@@ -14,7 +14,7 @@ static void menu(Account customer)
     const int withdraw{ 2 };
     const int balance{ 3 };
     const int history{ 4 };
-    const int exit{ 5 }; 
+    const int exit{ 5 };
 
     do
     {
